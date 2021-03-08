@@ -1,4 +1,4 @@
 server-skripts-enabled: true
-should-execute-command: false
+should-execute-command: true
 all-commands-disabled: false
 console: false
